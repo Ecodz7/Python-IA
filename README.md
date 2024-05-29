@@ -2,7 +2,7 @@
 Utilização de Inteligência Artificial com Python para modelo preditivo em ciência de dados.
 ___________________________________________________________________________________________________________________________
 Using Artificial Intelligence with Python for predictive model in data science.
-# Funcionalidades e proeficiências | Features and proficiencies
+# Funcionalidades e proficiências | Features and proficiencies
 - Inteligência Artificial
 - Projeto Completo de Previsão/Machine Learning
 - Ciência de Dados
